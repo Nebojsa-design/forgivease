@@ -1,6 +1,8 @@
 # ForgivEase Public Pages
 
-Status: ready for review. Public contact details and hosting URL are still needed.
+Status: public pages prepared for store account setup.
+
+Live URL: `https://nebojsa-design.github.io/forgivease/`
 
 ## Pages
 
@@ -11,14 +13,9 @@ Status: ready for review. Public contact details and hosting URL are still neede
 - `data-deletion.html`: Local data deletion instructions.
 - `styles.css`: shared page styling.
 
-## Before Publication
+## Review Before Store Submission
 
-- Add final developer or company name.
-- Add final support email.
-- Add final privacy contact email.
-- Add final website URL.
 - Review with qualified legal support before public store submission.
-- Publish to a stable HTTPS URL.
 - Copy the final URLs into App Store Connect and Google Play Console.
 
 ## Suggested URL Paths
